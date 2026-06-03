@@ -1,1 +1,3 @@
 content 1 (made in the local repository)
+
+content 2 (added this line in the remote repository)
